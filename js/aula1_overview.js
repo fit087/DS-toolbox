@@ -24,6 +24,10 @@ console.log("usnm ", username.replace("Adolf", "Adolph"))
 // Operadores
 console.log("usnm ", age > 18)
 
+
+console.log("logic operator == compara só o conteudo",  "37" == 37)
+console.log("logic operator === compara o tipo tbm",  "37" === 37)
+
 // Condicional
 if(age >= 18)
 {
@@ -37,6 +41,9 @@ else
 {
     console.log("Underage")
 }
+
+
+
 // Loop
 for(var i = 1; i <= 10; i++)
 {
